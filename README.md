@@ -1,2 +1,2 @@
-# Sentiment-analysis-news-
+# Sentiment-analysis
 
